@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8079472e726ecad42a5c5bcf586b577e, type: 3}
+  m_Name: Sound
+  m_EditorClassIdentifier: 
+  _soundDictionary:
+    Keys:
+    - MenuMusic
+    - Shoot
+    - GameMusic
+    Values:
+    - {fileID: 8300000, guid: ce6d4bdf82d8f7d44b8ba0c625f3f602, type: 3}
+    - {fileID: 8300000, guid: fcb12e8d89afd1744b2c7b087a3f8635, type: 3}
+    - {fileID: 8300000, guid: a27726c24c5f6b148bc0fd45a5d0f6b0, type: 3}
